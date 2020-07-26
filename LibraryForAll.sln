@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaibraryForAll.Models", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryForAll.Api", "LibraryForAll.Api\LibraryForAll.Api.csproj", "{3F566213-F592-4DF3-AE3F-900E346A9A12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryForAll.BlazorServer", "LibraryForAll.BlazorServer\LibraryForAll.BlazorServer.csproj", "{19D5DB1F-1F86-4446-A41F-83CD1922FECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F566213-F592-4DF3-AE3F-900E346A9A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F566213-F592-4DF3-AE3F-900E346A9A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F566213-F592-4DF3-AE3F-900E346A9A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D5DB1F-1F86-4446-A41F-83CD1922FECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D5DB1F-1F86-4446-A41F-83CD1922FECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D5DB1F-1F86-4446-A41F-83CD1922FECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D5DB1F-1F86-4446-A41F-83CD1922FECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
