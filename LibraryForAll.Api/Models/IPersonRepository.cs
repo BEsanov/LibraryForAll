@@ -13,5 +13,9 @@ namespace LibraryForAll.Api.Models
         Task<Person> GetPerson(int personId);
 
         Task<Person> AddPerson(Person person);
+
+        Task<Person> UpdatePerson(Person person);
+
+        Task<Person> DeletePerson(Person person);
     }
 }
